@@ -1,6 +1,8 @@
 
 **Application and Data**
 
+<h2>Hi, I'm Rafael! </h2>
+
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -39,6 +41,6 @@
 
 <h3> :earth_americas: &nbsp;Where to find me: </h3> 
 
-[![Linkedin: rafael-amorim](https://img.shields.io/badge/-rafael-amorim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/rafael-amorim-2630aa21b/)](https://www.linkedin.com/in/rafael-amorim-2630aa21b/)
-[![Gmail Badge](https://img.shields.io/badge/-rflamoriim@oulook.com-006bed?style=flat-square&logo=Outlook&logoColor=white&link=mailto:rflamoriim@oulook.com)](mailto:rflamoriim@oulook.com)
-[![GitHub Rafael]( https://img.shields.io/github/followers/Rflamorim?label=follow&style=social)](https://github.com/Rflamorim)
+[![Linkedin: sbstleal](https://img.shields.io/badge/-Rflamorim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/rafael-amorim/)](https://www.linkedin.com/in/rafael-amorim-2630aa21b/)
+[![Outlook Badge](https://img.shields.io/badge/-rflamoriim@oulook.com-006bed?style=flat-square&logo=Outlook&logoColor=white&link=mailto:rflamoriim@oulook.com)](mailto:rflamoriim@oulook.com)
+[![GitHub Sebastião]( https://img.shields.io/github/followers/Rflamorim?label=follow&style=social)](https://github.com/Rflamorim)
