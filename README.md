@@ -39,6 +39,6 @@
 
 <h3> :earth_americas: &nbsp;Where to find me: </h3> 
 
-[![Linkedin: sbstleal](https://img.shields.io/badge/-sbstleal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sbstleal/)](https://www.linkedin.com/in/rafael-amorim-2630aa21b/)
+[![Linkedin: rafael-amorim](https://img.shields.io/badge/-rafael-amorim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/rafael-amorim-2630aa21b/)](https://www.linkedin.com/in/rafael-amorim-2630aa21b/)
 [![Gmail Badge](https://img.shields.io/badge/-rflamoriim@oulook.com-006bed?style=flat-square&logo=Outlook&logoColor=white&link=mailto:rflamoriim@oulook.com)](mailto:rflamoriim@oulook.com)
 [![GitHub Sebastião]( https://img.shields.io/github/followers/Rflamorim?label=follow&style=social)](https://github.com/Rflamorim)
